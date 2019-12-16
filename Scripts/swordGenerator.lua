@@ -69,3 +69,6 @@ hilts = {
 hilt = hilts[math.random(#hilts)];
 
 forge.build(hilt, {0, -2*(hiltHeight+guardHeight)-guardHeight, 0}, {0, 0, 0})
+
+
+
